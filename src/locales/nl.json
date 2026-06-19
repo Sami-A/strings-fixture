@@ -1,0 +1,21 @@
+{
+  "checkout": {
+    "title": {
+      "payment": "Betalingsgegevens"
+    },
+    "button": {
+      "confirm": "Bevestigen en betalen",
+      "back": "Terug"
+    },
+    "hint": {
+      "cvc": "De 3 cijfers op de achterkant van je kaart"
+    },
+    "summary": {
+      "total": "Totaal te betalen",
+      "subtitle": "Controleer je bestelling"
+    },
+    "error": {
+      "declined": "Je kaart is geweigerd"
+    }
+  }
+}
