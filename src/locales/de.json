@@ -11,7 +11,8 @@
       "cvc": "Die 3 Ziffern auf der Rückseite Ihrer Karte"
     },
     "summary": {
-      "total": "Zu zahlender Betrag"
+      "total": "Zu zahlender Betrag",
+      "subtitle": "de translation"
     },
     "error": {
       "declined": "Ihre Karte wurde abgelehnt"

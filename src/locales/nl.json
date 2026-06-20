@@ -1,7 +1,7 @@
 {
   "checkout": {
     "title": {
-      "payment": "Betalingsgegevens"
+      "payment": "Betalingsgegevens dude man"
     },
     "button": {
       "confirm": "Bevestigen en betalen",
@@ -12,7 +12,8 @@
     },
     "summary": {
       "total": "Totaal te betalen",
-      "subtitle": "Controleer je bestelling"
+      "subtitle": "Controleer je bestelling",
+      "note": "nl translation"
     },
     "error": {
       "declined": "Je kaart is geweigerd"
