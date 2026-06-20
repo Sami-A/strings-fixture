@@ -5,7 +5,7 @@
     },
     "button": {
       "confirm": "Confirmer et payer",
-      "back": "Retour"
+      "back": "Retour (sync test)"
     },
     "hint": {
       "cvc": "Les 3 chiffres au dos de votre carte"
