@@ -16,6 +16,9 @@
     },
     "error": {
       "declined": "Ihre Karte wurde abgelehnt"
+    },
+    "promo": {
+      "apply": "true"
     }
   }
 }
