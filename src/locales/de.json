@@ -12,7 +12,7 @@
     },
     "summary": {
       "total": "Zu zahlender Betrag",
-      "subtitle": "de translation"
+      "subtitle": "true"
     },
     "error": {
       "declined": "Ihre Karte wurde abgelehnt"
