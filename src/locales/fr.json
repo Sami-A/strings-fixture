@@ -1,7 +1,7 @@
 {
   "checkout": {
     "title": {
-      "payment": "Détails de paiement ghgh"
+      "payment": "Détails de paiement"
     },
     "button": {
       "confirm": "Confirmer et payer",
@@ -13,7 +13,7 @@
     "summary": {
       "total": "Total à payer",
       "subtitle": "Vérifiez votre commande",
-      "note": "noti noti"
+      "note": "The fe translation"
     },
     "error": {
       "declined": "Votre carte a été refusée"
