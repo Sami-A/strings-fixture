@@ -12,14 +12,10 @@
     },
     "summary": {
       "total": "Zu zahlender Betrag",
-      "subtitle": "f",
-      "note": "The de translation"
+      "subtitle": "Bestellung prüfen"
     },
     "error": {
       "declined": "Ihre Karte wurde abgelehnt"
-    },
-    "promo": {
-      "apply": ""
     }
   }
 }
