@@ -3449,5 +3449,6 @@
   "sem_category_modal_cta": "Créer une demande",
   "task_breadcrumb_multiple_choice": "choix multiple",
   "task_breadcrumb_n_choices": "{{count}} choix",
-  "no_category": "No category"
+  "no_category": "No category",
+  "this_is_a_test_key": "This is a test key"
 }
