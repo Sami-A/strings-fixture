@@ -1,6 +1,6 @@
 {
   "SIGNUP": "Rejoignez Ring Twice ! test change",
-  "SIGNIN": "Me connecter ⟵ edited on GitHub",
+  "SIGNIN": "Me connecter",
   "CONNECT_WITH_FACEBOOK": "Me connecter avec Facebook",
   "EMAIL": "Adresse e-mail",
   "PASSWORD": "Mot de passe",
@@ -9,7 +9,7 @@
   "ALREADY_REGISTERED": "Déjà inscrit ?",
   "REGISTER": "S'inscrire",
   "OR": "OU",
-  "CONTINUE": "Continuer ⟵ edited on GitHub",
+  "CONTINUE": "Continuer",
   "FIRSTNAME": "Prénom",
   "COUNTRY": "Pays",
   "LASTNAME": "Nom",
@@ -36,7 +36,7 @@
   "TASK_ADDRESS": "Exemple : Rue Haute 1, 1000 Bruxelles",
   "CONFIRM_TASK": "Confirmer la demande",
   "CONFIRM_ADDRESS": "Confirmer l'adresse",
-  "NEXT": "Suivant ⟵ edited on GitHub",
+  "NEXT": "Suivant",
   "CANCEL": "Annuler",
   "no": "Non",
   "transport": "Transport",
@@ -1574,7 +1574,6 @@
   "status_form_company_name": "Nom de l’entreprise",
   "status_form_telephone": "Numéro de téléphone mobile",
   "invalid_telephone": "Le numéro de téléphone n’est pas valide.",
-  "invalid_phone_number": "Ce numéro de téléphone n’est pas valide. Vérifiez votre numéro de téléphone et réessayez.",
   "sms_region_not_supported": "La vérification par SMS n’est pas disponible dans ce pays.",
   "sms_not_a_mobile_number": "Ce numéro n’est pas un numéro de mobile. Veuillez saisir un numéro de mobile.",
   "sms_opted_out": "Nous ne pouvons pas envoyer de SMS à ce numéro.",
@@ -3450,5 +3449,6 @@
   "sem_category_modal_cta": "Créer une demande",
   "task_breadcrumb_multiple_choice": "choix multiple",
   "task_breadcrumb_n_choices": "{{count}} choix",
-  "no_category": "Aucune catégorie"
+  "no_category": "Aucune catégorie",
+  "this_is_a_test_key": "(FR-BE) test key"
 }

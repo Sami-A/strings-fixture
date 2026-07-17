@@ -1,6 +1,6 @@
 {
   "SIGNUP": "Welkom bij Ring Twice!",
-  "SIGNIN": "Aanmelden ⟵ edited on GitHub",
+  "SIGNIN": "Aanmelden",
   "CONNECT_WITH_FACEBOOK": "Aanmelden via Facebook",
   "EMAIL": "E-mailadres",
   "PASSWORD": "Paswoord",
@@ -9,7 +9,7 @@
   "ALREADY_REGISTERED": "Al ingeschreven?",
   "REGISTER": "Inschrijven",
   "OR": "OF",
-  "CONTINUE": "Verdergaan ⟵ edited on GitHub",
+  "CONTINUE": "Verdergaan",
   "FIRSTNAME": "Voornaam",
   "COUNTRY": "Land",
   "LASTNAME": "Naam",
@@ -36,7 +36,7 @@
   "TASK_ADDRESS": "Voorbeeld: Hoogstraat 1, 1000 Brussel",
   "CONFIRM_TASK": "Bevestig de aanvraag",
   "CONFIRM_ADDRESS": "Bevestig het adres",
-  "NEXT": "Volgende ⟵ edited on GitHub",
+  "NEXT": "Volgende",
   "CANCEL": "Annuleren",
   "no": "Nee",
   "transport": "Transport",
@@ -1574,7 +1574,6 @@
   "status_form_company_name": "Bedrijfsnaam",
   "status_form_telephone": "Geldig gsm-nummer",
   "invalid_telephone": "Het telefoonnummer is niet geldig.",
-  "invalid_phone_number": "Dit telefoonnummer is niet geldig. Controleer je telefoonnummer en probeer opnieuw.",
   "sms_region_not_supported": "Sms-verificatie is niet beschikbaar in dit land.",
   "sms_not_a_mobile_number": "Dit is geen mobiel nummer. Voer een mobiel nummer in.",
   "sms_opted_out": "We kunnen geen sms sturen naar dit nummer.",
@@ -3450,5 +3449,6 @@
   "sem_category_modal_cta": "Aanvraag plaatsen",
   "task_breadcrumb_multiple_choice": "meerdere keuzes",
   "task_breadcrumb_n_choices": "{{count}} keuzes",
-  "no_category": "Geen categorie"
+  "no_category": "Geen categorie",
+  "this_is_a_test_key": "(NL-BE) test key"
 }
