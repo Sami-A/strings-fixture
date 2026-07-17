@@ -1,5 +1,5 @@
 {
-  "SIGNUP": "Rejoignez Ring Twice !(Update)",
+  "SIGNUP": "Rejoignez Ring Twice !",
   "SIGNIN": "Me connecter",
   "CONNECT_WITH_FACEBOOK": "Me connecter avec Facebook",
   "EMAIL": "Adresse e-mail",
@@ -3450,5 +3450,5 @@
   "task_breadcrumb_multiple_choice": "choix multiple",
   "task_breadcrumb_n_choices": "{{count}} choix",
   "no_category": "Aucune catégorie",
-  "this_is_a_test_key": "(FR-BE) This is a test key"
+  "this_is_a_test_key": "(FR-BE) test key"
 }
